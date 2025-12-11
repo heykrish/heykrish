@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Creating a useable payments api gateway<br>👁️Looking to get inspired by ideas about the fintech projects <br>🔑I am getting into Java Springboot <br>🙂‍↕️I work on enterprise tech as of now<br>🏆 Experienced in Java, JS, Apex, Sql, Lwc<br><br>
+🔭Goal is to create a useable payments api gateway<br>👁️Looking to get inspired by ideas about the fintech projects <br>🔑I am getting into Java Springboot <br>🙂‍↕️I work on enterprise tech as of now<br>🏆 Experienced in Java, JS, Apex, Sql, Lwc<br><br>
 
 
 ## 🌐 Socials:
